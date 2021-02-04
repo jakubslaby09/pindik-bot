@@ -1,0 +1,15 @@
+{
+  "name": "pindik-discord-bot",
+  "version": "1.0.0",
+  "description": "Vlastní bot pro třídní discord server",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node ."
+  },
+  "author": "Jakub Slabý",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
