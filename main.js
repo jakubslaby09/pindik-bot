@@ -13,3 +13,4 @@ client.on('message', (message) => {
 
 //const secret = require('./secret.js');
 client.login(process.env.DISCORD_SECRET);
+console.log(process.env.DISCORD_SECRET);
