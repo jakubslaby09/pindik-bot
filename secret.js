@@ -1,1 +1,0 @@
-exports.secret = "ODA2Nzk5ODYzOTgyOTgxMTUw.YBus7Q.vAIfM5LmdLxwnijmqIQKswROv30";
